@@ -2,8 +2,8 @@
 
 ### Hi there, I'm Héctor - [my website][website] 👋 
 
-[Website][website]
-[Twitter Follow](https://twitter.com/intent/user?screen_name=kiwi_suc)
+[Website][website] and my
+[follow me](https://twitter.com/intent/user?screen_name=kiwi_suc) on Twitter
 
 ## I'm not a Husband, nor Father, but a Developer and Designer!!
 
