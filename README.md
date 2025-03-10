@@ -9,8 +9,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stonkol&layout=donut" alt="Top Langs" />
   </a> -->
 
-  <a href="https://github-contribution-stats.vercel.app/api/?username=stonkol">
+  <!-- <a href="https://github-contribution-stats.vercel.app/api/?username=stonkol">
     <img src="https://github-contribution-stats.vercel.app/api/?username=stonkol" alt="Github Contribution Stats" width="330px" height="240px" />
-  </a>
+  </a> -->
 
 </div>
