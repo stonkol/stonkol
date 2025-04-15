@@ -5,10 +5,9 @@
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/stonkol?cardType=level&theme=github&preferLogin=false&Ring=416CDD&Border=FFFFFF" alt="My Awesome Stats" />
   </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+ <!--<a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" alt="Top Langs" />
-  </a>
- <!--  ![Top Langs]()-->
+  </a>-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stonkol&layout=donut" alt="Top Langs" />
