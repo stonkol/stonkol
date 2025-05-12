@@ -1,13 +1,18 @@
 <div align="center">
    <h2>🖖 aloha ‽</h2>
-   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="113">
+<!--    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="113"> -->
+   
+   <img src="https://github.com/user-attachments/assets/52ebcb3c-36cb-4724-b54a-cb88634af20b" width="171">
 
+</br>
 </br>
 
 I'm Héctor, from _the other side_ of your line.  
 Curious of many things from _the other side_.
 
 `const aloha = ["hello", "love", "goodbye"];`
+
+</br>
 
 <div style="display: flex; flex-direction: row;">
    <a href="https://awesome-github-stats.azurewebsites.net/user-stats/stonkol?cardType=level&theme=github&preferLogin=false&Ring=416CDD&Border=FFFFFF" style="margin-right: 10px;">
