@@ -15,9 +15,9 @@ Curious of many things from _the other side_.
 </br>
 
 <div style="display: flex; flex-direction: row;">
-   <a href="https://awesome-github-stats.azurewebsites.net/user-stats/stonkol?cardType=level&theme=github&preferLogin=false&Ring=416CDD&Border=FFFFFF" style="margin-right: 10px;">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/stonkol?cardType=level&theme=github&preferLogin=false&Ring=416CDD&Border=FFFFFF" alt="My Awesome Stats" />
-  </a>
+   <a href="https://awesome-github-stats.azurewebsites.net/user-stats/stonkol?cardType=level&theme=github-dark&preferLogin=false&Ring=416CDD&Border=FFFFFF" style="margin-right: 10px;">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/stonkol?cardType=level&theme=github-dark&preferLogin=false&Ring=416CDD&Border=FFFFFF" alt="My Awesome Stats" />
+</a>
    
 </div>
 
