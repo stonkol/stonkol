@@ -3,7 +3,7 @@
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="113">
 </div>
 
-Haloha from the other _side_ of your line. 
+Haloha from the other _side_ of your line.  
 I'm Héctor and curious about many things about the other _side_.
 
 <div style="display: flex; flex-direction: row;">
