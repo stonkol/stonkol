@@ -3,6 +3,9 @@
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="113">
 </div>
 
+Haloha from the other _side_ of your line. 
+I'm Héctor and curious about many things about the other _side_.
+
 <div style="display: flex; flex-direction: row;">
    <a href="https://awesome-github-stats.azurewebsites.net/user-stats/stonkol?cardType=level&theme=github&preferLogin=false&Ring=416CDD&Border=FFFFFF" style="margin-right: 10px;">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/stonkol?cardType=level&theme=github&preferLogin=false&Ring=416CDD&Border=FFFFFF" alt="My Awesome Stats" />
