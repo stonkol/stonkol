@@ -7,8 +7,8 @@
 </br>
 </br>
 
-I'm Héctor, from _the other side_ of your line.  
-Curious of many things from _the other side_.
+I'm Héctor, from _the other side_ of your screen.  
+Curious about many things from _the other side_.
 
 `const aloha = ["hello", "love", "goodbye"];`
 
