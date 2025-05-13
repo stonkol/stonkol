@@ -8,20 +8,20 @@
    Curious about many things from _the other side_.
    
    `const aloha = ["hello", "love", "goodbye"];`
-
- </br>
        
-   <div style="display: flex; flex-direction: row;">
-      <a href="https://awesome-github-stats.azurewebsites.net/user-stats/stonkol?cardType=level&theme=github-dark&preferLogin=false&Ring=416CDD&Border=000000" style="margin-right: 10px;">
-       <img src="https://awesome-github-stats.azurewebsites.net/user-stats/stonkol?cardType=level&theme=github-dark&preferLogin=false&Ring=416CDD&Border=000000" alt="My Awesome Stats" />
-   </a>
-   
    <h1>🖖</h1>
-   
+
 </div>
 
 
  <!--
+
+   <div style="display: flex; flex-direction: row;">
+      <a href="https://awesome-github-stats.azurewebsites.net/user-stats/stonkol?cardType=level&theme=github-dark&preferLogin=false&Ring=416CDD&Border=000000" style="margin-right: 10px;">
+       <img src="https://awesome-github-stats.azurewebsites.net/user-stats/stonkol?cardType=level&theme=github-dark&preferLogin=false&Ring=416CDD&Border=000000" alt="My Awesome Stats" />
+   </a>
+   </div>
+      </br>
 
 ```js
 const aloha = ["hello", "love", "goodbye"];
