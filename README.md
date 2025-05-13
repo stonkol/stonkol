@@ -8,9 +8,8 @@
    Curious about many things from _the other side_.
    
    `const aloha = ["hello", "love", "goodbye"];`
-       
-   <h1>🖖</h1>
 
+   <h3>🖖</h3>
 </div>
 
 
