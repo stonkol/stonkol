@@ -7,7 +7,7 @@
 </br>
 </br>
 
-I'm Héctor, from _the other side_ of your screen.  
+I'm Héctor, from _the other side_ of your screen.   
 Curious about many things from _the other side_.
 
 `const aloha = ["hello", "love", "goodbye"];`
@@ -22,16 +22,18 @@ Curious about many things from _the other side_.
 </div>
 
 
- <!--<a href="https://github.com/anuraghazra/github-readme-stats">
+ <!--
+```js
+const aloha = ["hello", "love", "goodbye"];
+```
+ <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" alt="Top Langs" />
-  </a>-->
+  </a>
 
- <!--<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stonkol&layout=donut" alt="Top Langs" />
-  </a>-->
+  </a>
 
-  <!-- <a href="https://github-contribution-stats.vercel.app/api/?username=stonkol">
+   <a href="https://github-contribution-stats.vercel.app/api/?username=stonkol">
     <img src="https://github-contribution-stats.vercel.app/api/?username=stonkol" alt="Github Contribution Stats" width="330px" height="240px" />
   </a> -->
-
-</div>
