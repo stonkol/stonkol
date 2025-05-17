@@ -1,7 +1,7 @@
 <div align="center">
 <!--    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="113"> -->
    
-   <img src="https://github.com/user-attachments/assets/52ebcb3c-36cb-4724-b54a-cb88634af20b" width="171">
+   <img src="https://github.com/user-attachments/assets/52ebcb3c-36cb-4724-b54a-cb88634af20b" width="137">
    <h3>Aloha ‽</h3>
 
    I'm Héctor, from _the other side_ of your screen.   
