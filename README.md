@@ -5,7 +5,7 @@
    <h3>Aloha ‽</h3>
 
    I'm Héctor, from _the other side_ of your screen.   
-   Curious about many things from _the other side_.
+   Curious about how things on _the other side_ works.
    
    `const aloha = ["hello", "love", "goodbye"];`
 
