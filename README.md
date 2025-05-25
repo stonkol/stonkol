@@ -14,9 +14,9 @@
 </div>
 
 
- <!--
+<!--
 
-<!--    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="dev cat" width="113"> -->
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="dev cat" width="113"> 
 
 <div style="display: flex; flex-direction: row;">
   <a href="https://awesome-github-stats.azurewebsites.net/user-stats/stonkol?cardType=level&theme=github-dark&preferLogin=false&Ring=416CDD&Border=000000" style="margin-right: 10px;">
