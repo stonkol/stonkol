@@ -1,6 +1,7 @@
 <div align="center">
-
    
+   <img src="badge1.gif"/>
+   </br>
    <img src="https://github.com/user-attachments/assets/52ebcb3c-36cb-4724-b54a-cb88634af20b" width="117">
    <h3>Aloha ‽</h3>
 
@@ -10,7 +11,7 @@
    `const aloha = ["hello", "love", "goodbye"];`
 
    <h3>🖖</h3>
-
+   
 </div>
 
 
