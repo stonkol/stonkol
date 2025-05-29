@@ -1,6 +1,6 @@
 <div align="center">
    
-   <img src="badge1.gif"/>
+   <img src="badge1.gif" width="64"/>
    </br>
    <img src="https://github.com/user-attachments/assets/52ebcb3c-36cb-4724-b54a-cb88634af20b" width="117">
    <h3>Aloha ‽</h3>
