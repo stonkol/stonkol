@@ -10,7 +10,7 @@
    
    `const aloha = ["hello", "love", "goodbye"];`
 
-   <h3>🖖</h3>
+   <h1>🖖</h1>
    
 </div>
 
